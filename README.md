@@ -23,9 +23,7 @@ Summarizes findings and provides recommendations for future implementations, emp
 
 ## How to Use This Repository
 - Clone the repository.
-- Explore the code and documentation.
-- Refer to the `Evaluation` section for model performance insights.
-- Check `Conclusions` for future research directions.
+- Explore the code 
 
 ## Contributions
 Contributions and suggestions are welcome. Please read the contribution guidelines before submitting pull requests or issues.
